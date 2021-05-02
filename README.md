@@ -15,3 +15,4 @@ This repository contains 4 programs using CUDA.
  ``` 
  nvcc file_name.cu
  ```
+For more details about CUDA, read my blog on medium https://pratikshasancheti.medium.com/cuda-in-5-minutes-e175d5594ad6
